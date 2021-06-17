@@ -1,0 +1,15 @@
+#nav{
+    border: 1px solid black;
+    display: flex;
+    background-color: chartreuse;
+    margin-top: 20px;
+    box-shadow: 5px 5px 10px yellow;
+    justify-content: space-around;
+
+}
+.ob{
+    font-size: small;
+    padding-left: 15px;
+    padding: 5px;
+    margin: 5px;
+}
